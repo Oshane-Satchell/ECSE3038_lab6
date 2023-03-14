@@ -5,8 +5,8 @@
 
 #define endpoint "lab6-api.onrender.com"
 
-#define fan_pin 13
-#define light_pin 14
+#define fan_pin 22
+#define light_pin 23
 
 
 float getTemp(){
